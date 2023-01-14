@@ -1,0 +1,16 @@
+{
+  "name": "Test Notification",
+  "short_name": "TestNoti",
+  "icons": [
+    {
+      "src": "/hopoti-logo-white.svg",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#066b93",
+  "background_color": "#066b93",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
