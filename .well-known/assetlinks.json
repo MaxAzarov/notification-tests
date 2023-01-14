@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.netlify.glowing_dolphin_6813ed.twa",
+                     "sha256_cert_fingerprints": ["B7:22:E1:C3:17:F1:03:BE:CE:24:2C:95:AC:89:DB:51:2F:32:21:31:49:BD:22:8C:06:2B:D8:AC:06:7B:A1:EA"] }
+      }
+]
